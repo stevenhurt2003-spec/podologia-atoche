@@ -1,0 +1,6 @@
+{
+  "name": "Podología Clínica Atoche",
+  "description": "Aplicación clínica y financiera para el consultorio de Podología Clínica Atoche en Ica, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
